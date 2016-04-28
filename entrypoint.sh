@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-if [ "x$INIT" = "x" ]; then
+if [ -x /bin/bash ]; then
     exec $@
 fi
 
