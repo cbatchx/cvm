@@ -2,6 +2,7 @@
 
 A modified version of µCernVM Docker image.
 
+<<<<<<< HEAD
 ```sh
 docker run -it \
     -v /cvmfs:/cvmfs \
